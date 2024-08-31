@@ -19,14 +19,6 @@ Before using Fig2Num, ensure that you have the following installed:
 
 - MATLAB 2018a or later
 
-### Installation
-
-To install Fig2Num, clone the repository to your local machine and add the source files to your MATLAB path:
-
-\`\`\`bash
-git clone https://github.com/jkonglab/Fig2Num.git
-\`\`\`
-
 ### Usage
 
 Follow the steps below to use **Fig2Num** for extracting data from a bar chart image:
