@@ -19,35 +19,39 @@ Before using Fig2Num, ensure that you have the following installed:
 
 - MATLAB 2018a or later
 
-### Usage
 
-Follow the steps below to use **Fig2Num** for extracting data from a bar chart image:
+# Usage
 
-1. **Load the Image**: Ensure that the image file of the bar chart is accessible.
-2. **Run the Fig2Num Function**: Use the following MATLAB code to extract data from the bar chart image.
+(1)
+```bash
+# extract data from a bar chart in style 1:
+figure2num_clean(data_path, filename, result_path)
+```
+e.g.
+```bash
+figure2num_clean('../data/', 'figure1_20190808.png', '../result/')
+```
 
-\`\`\`matlab
-% Load your image
-image_path = 'path_to_your_image.png';
+(2)
+```bash
+# extract data from a bar chart in style 2:
+figure2num_DRC(data_path, filename, dates, result_path)
+```
+e.g.
+```bash
+figure2num_DRC('../data/', 'SITREP_EVD_DRC_20191126-eng.png', [2018 4 30 2019 11 18], '../result/')
+```
 
-% Run Fig2Num to extract data
-extracted_data = Fig2Num(image_path);
+(3)
+```bash
+# extract data from a bar chart in style 3 (i.e. in grouped style):
+figure2num_group(data_path, filename, dates, result_path)
+```
+e.g.
+```bash
+figure2num_group('../data/', 'nejmsr_fig4.tiff', [2018 8 1 2019 5 1], '../result/')
+```
 
-% Display the extracted data
-disp(extracted_data);
-\`\`\`
-
-3. **Visualize the Extracted Data**: Plot the extracted data to verify the results.
-
-\`\`\`matlab
-% Plot the extracted data
-plot(extracted_data);
-
-% Add labels and title for clarity
-xlabel('Time');
-ylabel('Data Value');
-title('Extracted Data from Bar Chart');
-\`\`\`
 
 ## Contributing
 
