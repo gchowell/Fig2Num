@@ -75,7 +75,11 @@ e.g.
 figure2num_group('../data/', 'nejmsr_fig4.tiff', [2018 8 1 2019 5 1], '../result/')
 ```
 
+## Contact
 
-## Contributing
+For questions or collaboration, please contact Jun Kong or Gerardo Chowell.
+
+
+
 
 Contributions to Fig2Num are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request. See the `CONTRIBUTING.md` file for more information.
