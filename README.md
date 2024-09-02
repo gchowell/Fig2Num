@@ -75,6 +75,11 @@ e.g.
 figure2num_group('../data/', 'nejmsr_fig4.tiff', [2018 8 1 2019 5 1], '../result/')
 ```
 
+## Future Work
+
+We are continually working to improve Fig2Num and expand its capabilities. **One of the planned updates includes the implementation of MATLAB’s Standalone Application feature. This will allow users without a MATLAB license to run the software, making it more accessible to a wider audience.** We are committed to ensuring that Fig2Num remains a valuable tool for researchers across various fields.
+
+
 ## Contact
 
 For questions or collaboration, please contact Jun Kong or Gerardo Chowell.
