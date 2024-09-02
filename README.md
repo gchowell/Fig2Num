@@ -1,3 +1,5 @@
+# Fig2Num: A Tool for Automated Data Extraction from Bar Chart Figures
+
 ## Authors
 
 - **Jun Kong**  
@@ -13,8 +15,6 @@
 - **Gerardo Chowell**  
   Department of Population Health Sciences, School of Public Health, Georgia State University, Atlanta, GA, USA  
   Email: gchowell@gsu.edu
-
-# Fig2Num: A Tool for Automated Data Extraction from Bar Chart Figures
 
 ## Purpose
 
