@@ -16,7 +16,9 @@
 
 # Fig2Num: A Tool for Automated Data Extraction from Bar Chart Figures
 
-**Fig2Num** is a MATLAB-based tool developed to automate the extraction of numerical data from bar chart figures. Originally created to support large-scale data conversion for epidemic research, Fig2Num is adaptable for use in any field requiring precise data extraction from graphical representations.
+## Purpose
+
+Fig2Num is a MATLAB-based tool designed to efficiently and accurately extract data from bar chart figures. This tool is particularly useful for researchers in epidemiology and other fields where data may only be available in graphical form. Fig2Num automates the process of extracting numerical data from bar charts, reducing the time and effort required for manual data extraction and minimizing the risk of errors.
 
 For example, prediction of outbreaks and spatial spread of infectious diseases highly depends on accurately collecting and integrating large-scale epidemic data from multiple resources. However, such data are often demonstrated in bar chart figures published in a format where original data can be readily used. As a result, the capability to extract such data from bar charts in an automated fashion becomes the key to enabling ensuing prediction analysis. We develop tool for efficient and accurate data extraction from bar chart figures. The developed conversion method leverages the power of image analysis and only requires minor manual intervention, enabling analysis in a batch mode for large-scale data conversion.
 
