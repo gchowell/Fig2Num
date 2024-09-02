@@ -34,9 +34,13 @@ For example, prediction of outbreaks and spatial spread of infectious diseases h
 
 ### Prerequisites
 
-Before using Fig2Num, ensure that you have the following installed:
-
 - MATLAB 2018a or later
+- Image Processing Toolbox
+
+### Installation
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/gchowell/Fig2Num.git
 
 
 # Usage
