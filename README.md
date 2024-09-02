@@ -1,3 +1,20 @@
+## Authors
+
+- **Jun Kong**  
+  Department of Mathematics and Statistics, Georgia State University, Atlanta, GA, USA  
+  Email: jkong@gsu.edu
+
+- **Kenji Mizumoto**  
+  Graduate School of Advanced Integrated Studies in Human Survivability, Kyoto University, Japan  
+  Email: [Your Email]
+
+- **George Teodoro**  
+  Department of Computer Science, Federal University of Minas Gerais, Brazil  
+  Email: [Your Email]
+
+- **Gerardo Chowell**  
+  Department of Population Health Sciences, School of Public Health, Georgia State University, Atlanta, GA, USA  
+  Email: gchowell@gsu.edu
 
 # Fig2Num: A Tool for Automated Data Extraction from Bar Chart Figures
 
